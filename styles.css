@@ -10,3 +10,10 @@ img {
     height: 200px;
     width: auto;
 }
+
+.homepage-ul li {
+    list-style-type: none;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
